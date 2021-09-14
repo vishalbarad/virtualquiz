@@ -1,0 +1,9 @@
+questions,mcq1,mcq2,mcq3,mcq4,ans
+1) How do we perform Bayesian classification when some features are missing?,(A) We assuming the missing values as the mean of all values.,(B) We ignore the missing features.,(C) We integrate the posteriors probabilities over the missing features.,(D) Drop the features completely.,3
+2) What kind of distance metric(s) are suitable for categorical variables to find the closest neighbors?,(A) Euclidean distance.,(B) Manhattan distance.,(C) Minkowski distance.,(D) Hamming distance.,4
+3) Which of the following are ML methods?,(A) based on human supervision,(B) supervised Learning,(C) semi-reinforcement Learning,(D) All of the above,1
+4) The model will be trained with data in one single batch is known as ?,(A) Batch learning,(B) Offline learning,(C) Both A and B,(D) None of the above,3
+
+
+
+
